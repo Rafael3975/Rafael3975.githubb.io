@@ -1,0 +1,27 @@
+.cor_de_fundo{
+    background-color: blue;
+    margin-inline: 30%;
+}
+header h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+header p{
+    text-align: center;
+    font-size: 22px;
+    color: greenyellow;
+}
+button{
+    padding: 20px;
+    position: static;
+    margin-left: 370px;
+
+}
+input{
+    position: static;
+    width: 300px;
+    margin-left: 50px;
+    padding: 20px;
+    margin-bottom: -100px;
+}
